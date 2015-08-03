@@ -1,0 +1,3 @@
+# local
+testing knotsuite
+check
